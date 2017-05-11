@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 include 'generated:java:gapic-google-cloud-error-reporting-v1beta1',
   'generated:java:grpc-google-cloud-error-reporting-v1beta1',
   'generated:java:proto-google-cloud-error-reporting-v1beta1',
@@ -38,21 +37,3 @@ include 'generated:java:gapic-google-cloud-error-reporting-v1beta1',
   'generated:java:gapic-google-cloud-vision-v1',
   'generated:java:grpc-google-cloud-vision-v1',
   'generated:java:proto-google-cloud-vision-v1'
-=======
-include 'generated:java:google-cloud-dlp-v2beta1',
-  'generated:java:google-cloud-error-reporting-v1beta1',
-  'generated:java:google-cloud-language-v1',
-  'generated:java:google-cloud-language-v1beta2',
-  'generated:java:google-cloud-logging-v2',
-  'generated:java:google-cloud-monitoring-v3',
-  'generated:java:google-cloud-pubsub-v1',
-  'generated:java:google-cloud-spanner-v1',
-  'generated:java:google-cloud-spanner-admin-database-v1',
-  'generated:java:google-cloud-spanner-admin-instance-v1',
-  'generated:java:google-cloud-speech-v1',
-  'generated:java:google-cloud-speech-v1beta1',
-  'generated:java:google-cloud-trace-v1',
-  'generated:java:google-cloud-vision-v1',
-  'generated:java:google-longrunning-v1'
-
->>>>>>> efe45b990b732401337b67afc568afab11fd11f8
